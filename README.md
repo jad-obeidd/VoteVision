@@ -60,7 +60,7 @@ Do not commit production database exports or files from `uploads/`. Database dum
 ## Author
 
 **Jad Obeid**  
-[GitHub](https://github.com/jad-obeidd) · [LinkedIn](https://www.linkedin.com/in/jad-obeid-748a642a0/)
+[GitHub](https://github.com/jad-obeidd) · [LinkedIn](https://www.linkedin.com/in/jad-obeid-dev)
 
 ## License
 
