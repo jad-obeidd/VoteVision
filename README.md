@@ -4,6 +4,12 @@ VoteVision is an educational online voting platform for creating elections and p
 
 > This repository is a demonstration project. It has not been independently security-audited and should not be used for governmental, financial, or other high-stakes elections.
 
+## Screenshots
+
+![Live poll results chart showing votes per option](docs/screenshots/results.png)
+
+![VoteVision landing page](docs/screenshots/home.jpg)
+
 ## Features
 
 - User registration, login, and profile management
